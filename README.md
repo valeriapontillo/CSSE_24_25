@@ -40,4 +40,4 @@ The following metrics need to be extracted.
 | DEV2 | Number of distinct developers who changed file `f` **after** a revision `r`.|
 
 The code for analyzing a repository needs to be written in Python. You are encouraged to us the [gitpython](https://gitpython.readthedocs.io/en/stable/tutorial.html) library.
-**The submission requires the script to compute the metrics and the CSV or line-delimited JSON file. Deadline for the assignments: 21 June 2025**
+**The submission requires the script to compute the metrics and the CSV or line-delimited JSON file. Deadline for the assignments: 20 June 2025**
